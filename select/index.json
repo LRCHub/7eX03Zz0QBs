@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Your Betrayal",
+  "base_artist": "Bullet For My Valentine",
+  "createdAt": "2026-03-16T07:36:42.384310Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Your Betrayal",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/01_Your_Betrayal_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Your Betrayal",
+      "artist": "Bullet For My Valentine",
+      "has_synced": true,
+      "path": "select/02_Your_Betrayal_Bullet_For_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Your Betrayal",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/03_Your_Betrayal_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Your Betrayal",
+      "artist": "Bullet For My Valentine",
+      "has_synced": true,
+      "path": "select/04_Your_Betrayal_Bullet_For_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Your Betrayal - Live At XFM",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/05_Your_Betrayal_-_Live_At_XFM_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Your Betrayal",
+      "artist": "ブレット・フォー・マイ・ヴァレンタイン",
+      "has_synced": true,
+      "path": "select/06_Your_Betrayal_ブレット・フォー・マイ・ヴァレンタイン.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Your Betrayal - Live From Kingston",
+      "artist": "Bullet for My Valentine",
+      "has_synced": false,
+      "path": "select/07_Your_Betrayal_-_Live_From_Kingston_Bullet_for_My_Valentine.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Your Betrayal (Live)",
+      "artist": "Bullet for My Valentine",
+      "has_synced": false,
+      "path": "select/08_Your_Betrayal_(Live)_Bullet_for_My_Valentine.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Your Betrayal",
+      "artist": "War of Ages",
+      "has_synced": true,
+      "path": "select/09_Your_Betrayal_War_of_Ages.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Your Betrayal",
+      "artist": "Bullet For My Valentine",
+      "has_synced": true,
+      "path": "select/10_Your_Betrayal_Bullet_For_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Your Betrayal",
+      "artist": "Bullet For My Valentine",
+      "has_synced": true,
+      "path": "select/11_Your_Betrayal_Bullet_For_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bullet For My Valentine - Your Betrayal (Official Video)",
+      "artist": "Bullet For My Valentine",
+      "has_synced": true,
+      "path": "select/12_Bullet_For_My_Valentine_-_Your_Betrayal_(Official_Video)_Bullet_For_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bullet For My Valentine - Your Betrayal",
+      "artist": "Bullet For My Valentine",
+      "has_synced": true,
+      "path": "select/13_Bullet_For_My_Valentine_-_Your_Betrayal_Bullet_For_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Your Betrayal",
+      "artist": "Bullet For My Valentine",
+      "has_synced": true,
+      "path": "select/14_Your_Betrayal_Bullet_For_My_Valentine.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Your Betrayal",
+      "artist": "Bullet For My Valentine",
+      "has_synced": false,
+      "path": "select/pl_01_Your_Betrayal_Bullet_For_My_Valentine.txt"
+    }
+  ]
+}
